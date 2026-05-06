@@ -30,7 +30,7 @@ Extract meaningful insights using data visualization
 ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Seaborn-%234C72B0?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Seaborn-%23FF7F0E?style=for-the-badge)<br>
+![Static Badge](https://img.shields.io/badge/Matplotlib-%23FF7F0E?style=for-the-badge)<br>
   
  
 
